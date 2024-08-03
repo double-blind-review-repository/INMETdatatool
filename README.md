@@ -23,18 +23,6 @@ This Python-based tool was designed to simplify the exploratory analysis of mete
 > The notebook file (`INMETDataTool.ipynb`) can be executed using different platforms for running notebooks, such as Jupyter Notebook and Google Colab.
 >- **Jupyter Notebook**: Run the notebook on your machine with the support of a web application.
 >- **Google Colab**: Execute your notebook in Google Cloud.
-
-## Usage
-
-1. Open the Jupyter Notebook:
-    ```sh
-    jupyter notebook
-    ```
-
-2. Navigate to the notebook file and open it:
-    ```sh
-    INMETDataTool.ipynb
-    ```
       
 ![](docs/img/ui.png)
 
