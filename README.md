@@ -24,9 +24,9 @@ This Python-based tool was designed to simplify the exploratory analysis of mete
 >- **Jupyter Notebook**: Run the notebook on your machine with the support of a web application.
 >- **Google Colab**: Execute your notebook in Google Cloud.
   
-[![](docs/img/ui.png)]
+![](docs/img/ui.png)
 
-[![](docs/img/overviewWindSpeed.svg)]
+![](docs/img/overviewWindSpeed.svg)
 <p align="center">
   <em>Visualize your data in real time</em>
 </p>
